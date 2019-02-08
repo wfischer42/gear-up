@@ -15,27 +15,47 @@
 
 # Session Outline: Include the flow of the session and the time for each section.
 
- ALL 10 minutes - Introductions/Why we decided to provide this Gearup. Share why we think we need this GearUp, what in our own personal journey has caused us to experience. 
- 
- 15 Minutes - Students will be provided a difficult coding challenge to see how they respond to it. After the really difficult challenge, we will spend 5 minutes identifying aspects of fixed mindset that they experienced during the code challenge. The idea here is not to "catch" people who are experiencing fixed mindsets, but rather allow everyone to have a shared experience of fixed mindsets and recognize how they behave when they feel challenged.
+Jen: 
+5 minute sorting hat.
+Small groups: 10 minutes - Introductions/Why we decided to provide this Gearup.
+- What are fixed & growth mindsets?
+- Are they mutually exclusive? Independent?
+- Can you feel fixed mindset while practicing growth mindset?
+- Is growth mindset the same as "positive thinking"?
+
+----
+
+William:
+Small Groups: 5 Minutes - Paper puzzle challenge. Anyone who has done it before will be asked to refrain from participating and just watch the rest of the group. The idea here is not to "catch" people who are experiencing fixed mindsets, but rather allow everyone to have a shared experience of fixed mindsets and recognize how they behave when they feel challenged.
+
+Small Groups: 5 Minutes - Discuss the challenge.
     -- "What were you feeling during the challenge?"
     -- "What were some behaviors that you experienced during the challenge?"
-    -- Having student journal their internal narrative during this code challenge. 
-    
-Francy 10 minutes - Students will identify an area that they are in a fixed mindset. Students will think of a time they they felt a fixed mindset, whether it was during Turing or before. Are there areas in the future where you feel that you're feeling fixed?
-    - 4 minutes thinking this through, 2 minutes pair and share, and then 4 minutes of group share. 
-    
- 4 minutes - Modeling the infographic exercise.
+    -- Having student journal their internal narrative during this challenge.
+    -- How can you identify fixed mindset in yourself?
+    -- How can you recognize it in others? (without making assumptions)
 
- 16 minutes - Students will pair up with another person and work through the infographic, using the fixed experience that they came up with during the previous activity. Students will take note of what they could have done differently or what techniques they could have employed.
- 
- 8 minutes - Angelela DuckWorth Grit: The Power of Perseverence and Passion.
+Large Groups: 5 Minute group discussion.
 
- 7 Minutes - Students will write down a new narrative for themselves going into a future challenge. 
+5 minute - Pom Break
 
-ALL 5 Minutes - We will open up the conversation so that students can share their new narratives. 
+-----
 
-Know that this experience has prepared you for failure. Being mindful of this failure and accepting of the fact that we can grow from our failures will allow us to perservere and succeed. 
+Tim:
+Small Groups: 7 minutes - Students will identify an area that they are in a fixed mindset. Students will think of a time they they felt a fixed mindset, whether it was during Turing or before. Are there areas in the future where you feel that you're feeling fixed?
+
+Large Group: 3 minutes - Discuss. Make a list of "symptoms" of fixed mindset.
+
+8 minutes - Angelela DuckWorth Grit: The Power of Perseverence and Passion.
+
+-----
+
+Quin:
+Small Groups: 10 minutes - Discuss how to move out of growth mindset. How do you re-frame your narrative. 
+Large Group: 5 minutes - Large group discussion
+
+
+==== END OF SECTION TO UPDATE ====
 
 ## New Ideas
 
